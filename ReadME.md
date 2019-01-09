@@ -11,15 +11,15 @@ Using a patent pending* algorithm, we access the Giphy API and search for GIFs.
 ### So, you want to try it yourself?
 1. Clone down repo to directory of your choosing
 2. From the root firectory run `npm install` in the terminal
-3. You're good to code!
-3.2 But you want to open it in the browser
+3. You're good to code!  
+3.2 But you want to open it in the browser  
 3.3 That's fine, simply open the index.html file in your browser to see your changes
 
 ### How to run the sweet test suite
 1. Run through steps 1 and 2 of "So, you want to try it yourself?"
 2. From the root directory run `npm test` in the terminal
-3. This will print a coverage report to the terminal
-3.2 This will also create a "/coverage" folder in the root directory
+3. This will print a coverage report to the terminal  
+3.2 This will also create a "/coverage" folder in the root directory  
 3.3 Inside the "/coverage" folder, there will be a coverage report (index.html)
 
 ### API's used!
@@ -33,10 +33,10 @@ Using a patent pending* algorithm, we access the Giphy API and search for GIFs.
 [Ben Ghalami](https://github.com/bghalami)
 
 ### Tech Stack
-[Javascript](https://www.javascript.com/)
-[Node.js](https://nodejs.org/en/)
-[Nightmare](http://www.nightmarejs.org/)
-[Mocha](https://mochajs.org/)
-[Chai](https://www.chaijs.com/)
-[HTML](https://html.com/)
-[CSS](https://www.w3.org/TR/1999/REC-CSS1-19990111)
+* [Javascript](https://www.javascript.com/)
+* [Node.js](https://nodejs.org/en/)
+* [Nightmare](http://www.nightmarejs.org/)
+* [Mocha](https://mochajs.org/)
+* [Chai](https://www.chaijs.com/)
+* [HTML](https://html.com/)
+* [CSS](https://www.w3.org/TR/1999/REC-CSS1-19990111)
