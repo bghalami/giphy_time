@@ -34,10 +34,6 @@ Using a patent pending* algorithm, we access the Giphy API and search for GIFs.
 [Ben Ghalami](https://github.com/bghalami)
 
 ### Tech Stack
-<<<<<<< HEAD
-
-=======
->>>>>>> 5a8940d... Correctly added bullets to tech stack
 * [Javascript](https://www.javascript.com/)
 * [Node.js](https://nodejs.org/en/)
 * [Nightmare](http://www.nightmarejs.org/)
