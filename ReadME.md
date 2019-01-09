@@ -33,10 +33,10 @@ Using a patent pending* algorithm, we access the Giphy API and search for GIFs.
 [Ben Ghalami](https://github.com/bghalami)
 
 ### Tech Stack
-*[Javascript](https://www.javascript.com/)
-*[Node.js](https://nodejs.org/en/)
-*[Nightmare](http://www.nightmarejs.org/)
-*[Mocha](https://mochajs.org/)
-*[Chai](https://www.chaijs.com/)
-*[HTML](https://html.com/)
-*[CSS](https://www.w3.org/TR/1999/REC-CSS1-19990111)
+* [Javascript](https://www.javascript.com/)
+* [Node.js](https://nodejs.org/en/)
+* [Nightmare](http://www.nightmarejs.org/)
+* [Mocha](https://mochajs.org/)
+* [Chai](https://www.chaijs.com/)
+* [HTML](https://html.com/)
+* [CSS](https://www.w3.org/TR/1999/REC-CSS1-19990111)
