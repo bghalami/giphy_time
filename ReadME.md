@@ -1,3 +1,4 @@
+[![Waffle.io - Columns and their card count](https://badge.waffle.io/bghalami/giphy_time.svg?columns=all)](https://waffle.io/bghalami/giphy_time)  
 [![Maintainability](https://api.codeclimate.com/v1/badges/1ac3b5feb071a96ea223/maintainability)](https://codeclimate.com/github/bghalami/giphy_time/maintainability)
 
 # Giphy Time
