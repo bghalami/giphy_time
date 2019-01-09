@@ -23,20 +23,20 @@ Using a patent pending* algorithm, we access the Giphy API and search for GIFs.
 3.3 Inside the "/coverage" folder, there will be a coverage report (index.html)
 
 ### API's used!
-![Giphy's Developer API](https://developers.giphy.com/)
+[Giphy's Developer API](https://developers.giphy.com/)
 
 
 ### Known Issues
-![None...probably](https://github.com/bghalami/giphy_time/issues)
+[None...probably](https://github.com/bghalami/giphy_time/issues)
 
 ### Contributors
-![Ben Ghalami](https://github.com/bghalami)
+[Ben Ghalami](https://github.com/bghalami)
 
 ### Tech Stack
-![Javascript](https://www.javascript.com/)
-![Node.js](https://nodejs.org/en/)
-![Nightmare](http://www.nightmarejs.org/)
-![Mocha](https://mochajs.org/)
-![Chai](https://www.chaijs.com/)
-![HTML](https://html.com/)
-![CSS](https://www.w3.org/TR/1999/REC-CSS1-19990111)
+[Javascript](https://www.javascript.com/)
+[Node.js](https://nodejs.org/en/)
+[Nightmare](http://www.nightmarejs.org/)
+[Mocha](https://mochajs.org/)
+[Chai](https://www.chaijs.com/)
+[HTML](https://html.com/)
+[CSS](https://www.w3.org/TR/1999/REC-CSS1-19990111)
